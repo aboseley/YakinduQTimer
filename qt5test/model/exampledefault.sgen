@@ -1,0 +1,10 @@
+GeneratorModel for yakindu::cpp {
+
+	statechart default {
+
+		feature Outlet {
+			targetProject = "qt5test"
+			targetFolder = "sc_gen"
+		}
+	}
+}
